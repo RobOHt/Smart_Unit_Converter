@@ -1,0 +1,99 @@
+hertz;s_**_-1
+radian;1
+steradian;1
+newton;kg_*_m_*_s_**_-2
+pascal;kg_*_m_**_-1_*_s_**_-2
+joule;kg_*_m_**_2_*_s_**_-2
+watt;kg_*_m_**_2_*_s_**_-3
+coulomb;s_*_A
+volt;kg_*_m_**_2_*_s_**_-3_*_A_**_-1
+farad;kg_**_-1_*_m_**_-2_*_s_**_4_*_A_**_2
+ohm;kg_*_m_**_2_*_s_**_-3_*_A_**_-2
+siemens;kg_**_-1_*_m_**_-2_*_s_**_3_*_A_**_2
+weber;kg_*_m_**_2_*_s_**_-2_*_A_**_-1
+tesla;kg_*_s_**_-2_*_A_**_-1
+henry;kg_*_m_**_2_*_s_**_-2_*_A_**_-2
+Celsius;K
+lumen;cd
+lux;cd_*_m_**_-2
+becquerel;s_**_-1
+gray;m2_*_s_**_-2
+sievert;m2_*_s_**_-2
+katal;s_**_-1_*_mol
+metre per second;m_*_s_**_-1
+metre per second squared;m_*_s_**_-2
+metre per second cubed;m_*_s_**_-3
+metre per second to the fourth;m_*_s_**_-4
+radian per second;s_**_-1
+radian per second squared;s_**_-2
+hertz per second;s_**_-2
+cubic metre per second;m_**_3_*_s_**_-1
+square metre;m_**_2
+cubic metre;m_**_3
+newton second;m_*_kg_*_s_**_-1
+newton metre second;m_**_2_*_kg_*_s_**_-1
+newton metre;m_**_2_*_kg_*_s_**_-2
+newton per second;m_*_kg_*_s_**_-3
+reciprocal metre;m_**_-1
+kilogram per square metre;m_**_-2_*_kg
+kilogram per cubic metre;m_**_-3_*_kg
+cubic metre per kilogram;m_**_3_*_kg_**_-1
+joule second;m_**_2_*_kg_*_s_**_-1
+joule per kilogram;m_**_2_*_s_**_-2
+joule per cubic metre;m_**_-1_*_kg_*_s_**_-2
+newton per metre;kg_*_s_**_-2
+watt per square metre;kg_*_s_**_-3
+square metre per second;m_**_2_*_s_**_-1
+pascal second;m_**_-1_*_kg_*_s_**_-1
+kilogram per metre;m_**_-1_*_kg
+kilogram per second;kg_*_s_**_-1
+watt per steradian square metre;kg_*_s_**_-3
+watt per steradian cubic metre;m_**_-1_*_kg_*_s_**_-3
+watt per metre;m_*_kg_*_s_**_-3
+gray per second;m_**_2_*_s_**_-3
+metre per cubic metre;m_**_-2
+watt per cubic metre;m_**_-1_*_kg_*_s_**_-3
+joule per square metre second;kg_*_s_**_-3
+reciprocal pascal;m_*_kg_**_-1_*_s_**_2
+joule per square metre;kg_*_s_**_-2
+kilogram square metre;m_**_2_*_kg
+newton metre second per kilogram;m_**_2_*_s_**_-1
+watt per steradian;m_**_2_*_kg_*_s_**_-3
+watt per steradian metre;m_*_kg_*_s_**_-3
+mole per cubic metre;m_**_-3_*_mol
+cubic metre per mole;m_**_3_*_mol_**_-1
+joule per kelvin mole;m_**_2_*_kg_*_s_**_-2_*_K_**_-1_*_mol_**_-1
+joule per mole;m_**_2_*_kg_*_s_**_-2_*_mol_**_-1
+siemens square metre per mole;kg_**_-1_*_s_**_3_*_A_**_2_*_mol_**_-1
+mole per kilogram;kg_**_-1_*_mol
+kilogram per mole;kg_*_mol_**_-1
+cubic metre per mole second;m_**_3_*_s_**_-1_*_mol_**_-1
+coulomb per square metre;m_**_-2_*_s_*_A
+coulomb per cubic metre;m_**_-3_*_s_*_A
+ampere per square metre;m_**_-2_*_A
+siemens per metre;m_**_-3_*_kg_**_-1_*_s_**_3_*_A_**_2
+farad per metre;m_**_-3_*_kg_**_-1_*_s_**_4_*_A_**_2
+henry per metre;m_*_kg_*_s_**_-2_*_A_**_-2
+volt per metre;m_*_kg_*_s_**_-3_*_A_**_-1
+ampere per metre;m_**_-1_*_A
+coulomb per kilogram;kg_**_-1_*_s_*_A
+ohm metre;m_**_3_*_kg_*_s_**_-3_*_A_**_-2
+coulomb per metre;m_**_-1_*_s_*_A
+joule per tesla;m_**_2_*_A
+square metre per volt second;kg_**_-1_*_s_**_2_*_A
+reciprocal henry;m_**_-2_*_kg_**_-1_*_s_**_2_*_A_**_2
+weber per metre;m_*_kg_*_s_**_-2_*_A_**_-1
+weber metre;m_**_3_*_kg_*_s_**_-2_*_A_**_-1
+tesla metre;m_*_kg_*_s_**_-2_*_A_**_-1
+ampere radian;A
+metre per henry;m_**_-1_*_kg_**_-1_*_s_**_2_*_A_**_2
+lumen second;s_*_cd
+lux second;m_**_-2_*_s_*_cd
+candela per square metre;m_**_-2_*_cd
+lumen per watt;m_**_-2_*_kg_**_-1_*_s_**_3_*_cd
+joule per kelvin;m_**_2_*_kg_*_s_**_-2_*_K_**_-1
+joule per kilogram kelvin;m_**_2_*_s_**_-2_*_K_**_-1
+watt per metre kelvin;m_*_kg_*_s_**_-3_*_K_**_-1
+kelvin per watt;m_**_-2_*_kg_**_-1_*_s_**_3_*_K
+reciprocal kelvin;K_**_-1
+kelvin per metre;m_**_-1_*_K
